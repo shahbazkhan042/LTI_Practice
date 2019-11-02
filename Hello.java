@@ -4,4 +4,5 @@ class Hello
 	{
 		System.out.println("changed in master");
 	}
+public void m1(){}
 }
