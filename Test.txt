@@ -5,6 +5,10 @@ class Test
 		System.out.println(" in master");
 	}
 
+
 	public void sagar()
          {}
+
+		public void tom(){}
+
 }
